@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45707f5c10bd40cf2af581fb858adbee",
+    "revision": "81b6e5d3c3ce7b324734cfa135268c01",
     "url": "/moview_app_2019/index.html"
   },
   {
